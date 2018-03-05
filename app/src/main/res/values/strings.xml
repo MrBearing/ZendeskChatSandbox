@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyZendeskChatApplication</string>
+    <string name="chat_button">Chat</string>
+</resources>
